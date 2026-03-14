@@ -5,12 +5,12 @@ SDE-2 Backend Engineer • Telecom Routing & Data Platforms • Java • Kafka �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--jindal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-jindal-52a171252)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulj2712-181717?logo=github&logoColor=white)](https://github.com/rahulj2712)
-[![Email](https://img.shields.io/badge/Email-rahul.jindal%40mobileum.com-EA4335?logo=gmail&logoColor=white)](mailto:rahul.jindal@mobileum.com)
+[![Email](https://img.shields.io/badge/Email-rahul.jindal%40mobileum.com-EA4335?logo=gmail&logoColor=white)](mailto:rjjindal.rj@gmail.com)
 
 </div>
 
 ## 👋 About Me
-I’m a backend engineer with **3+ years** of experience building and operating production systems in the **telecom routing / analytics** domain.
+I’m a backend engineer with **3+ years** of experience building and operating production systems in the **telecom / analytics** domain.
 
 - **Mobileum (Aug 2023 – Present):** Own backend services and data pipelines powering **NTR routing/configuration** and **RAID analytics** platforms.
 - I work across **low-latency APIs**, **Kafka-based streaming**, **database performance (Oracle/Postgres/Couchbase)**, and **Kubernetes/OpenShift deployments**.
