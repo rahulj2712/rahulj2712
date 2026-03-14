@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rahul Jindal  
-SDE-2 Backend Engineer • Telecom Routing & Data Platforms • Java • Kafka • Kubernetes • AWS
+SDE-2 Backend Engineer • Telecom & Data Platforms • Java • Kafka • Kubernetes • AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--jindal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-jindal-52a171252)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulj2712-181717?logo=github&logoColor=white)](https://github.com/rahulj2712)
