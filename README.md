@@ -3,7 +3,7 @@
 # Rahul Jindal  
 SDE-2 Backend Engineer • Telecom & Data Platforms • Java • Kafka • Kubernetes • AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--jindal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-jindal-52a171252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--jindal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-jindal-rj)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulj2712-181717?logo=github&logoColor=white)](https://github.com/rahulj2712)
 [![Email](https://img.shields.io/badge/Email-rjjindal.rj%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rjjindal.rj@gmail.com)
 
@@ -97,7 +97,7 @@ I’m a backend engineer with **3+ years** of experience building and operating 
 
 ## 📬 Contact
 - 📧 Email: **rjjindal.rj@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/rahul-jindal-52a171252
+- 🔗 LinkedIn: https://www.linkedin.com/in/rahul-jindal-rj
 - 🤝 Open to **Backend / Platform / SDE-2** roles (India)
 
 <div align="center">
