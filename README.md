@@ -5,7 +5,7 @@ SDE-2 Backend Engineer • Telecom Routing & Data Platforms • Java • Kafka �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--jindal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-jindal-52a171252)
 [![GitHub](https://img.shields.io/badge/GitHub-rahulj2712-181717?logo=github&logoColor=white)](https://github.com/rahulj2712)
-[![Email](https://img.shields.io/badge/Email-rahul.jindal%40mobileum.com-EA4335?logo=gmail&logoColor=white)](mailto:rjjindal.rj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rjjindal.rj%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:rjjindal.rj@gmail.com)
 
 </div>
 
