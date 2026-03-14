@@ -18,7 +18,7 @@ I’m a backend engineer with **3+ years** of experience building and operating 
 
 ---
 
-## 🚀 Featured Work (Public / Clean-room)
+## 🚀 Featured Work (Public)
 > Note: I can’t share employer code publicly. These repos are **clean-room implementations** demonstrating the same patterns used in production.
 
 - **event-ingestion-platform** *(Kafka + Java + Postgres)*  
