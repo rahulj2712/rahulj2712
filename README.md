@@ -84,7 +84,7 @@ I’m a backend engineer with **3+ years** of experience building and operating 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulj2712" height="140" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulj2712&layout=compact&langs_count=8" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulj2712&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" height="140" />
 </p>
 
 ---
