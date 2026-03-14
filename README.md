@@ -96,7 +96,7 @@ I’m a backend engineer with **3+ years** of experience building and operating 
 ---
 
 ## 📬 Contact
-- 📧 Email: **rahul.jindal@mobileum.com**
+- 📧 Email: **rjjindal.rj@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/rahul-jindal-52a171252
 - 🤝 Open to **Backend / Platform / SDE-2** roles (India)
 
